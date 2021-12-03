@@ -1,0 +1,18 @@
+{
+    "name": "pixetto-16",
+    "version": "1.6.0",
+    "description": "Pixetto blocks for micro:bit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "pixetto.cpp",
+        "shims.d.ts",
+        "enums.d.ts",
+        "_locales/zh-TW/pixetto-16-strings.json"
+    ],
+    "public": true
+}
