@@ -10,7 +10,7 @@
   "PixFunction.NEURAL_NETWORK|block": "神經網路辨識",
   "PixFunction.SHAPE_DETECTION|block": "形狀偵測",
   "PixFunction.TEMPLATE|block": "模板匹配",
-  "PixFunction.TRAFFIC_SIGN_DETECTION|block": "交通號誌辨識",
+  "PixFunction.TRAFFIC_SIGN_DETECTION|block": "交通標誌辨識",
   "PixFunction.REMOTE_COMPUTING|block": "遠端運算",
   "PixFunction.LANES_DETECTION|block": "車道偵測",
   "PixFunction.DIGITS_OPERATION|block": "數字運算",

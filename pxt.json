@@ -1,5 +1,5 @@
 {
-    "name": "pixetto-16",
+    "name": "pixetto2-ext",
     "version": "1.6.0",
     "description": "Pixetto blocks for micro:bit",
     "license": "MIT",
@@ -12,7 +12,7 @@
         "pixetto.cpp",
         "shims.d.ts",
         "enums.d.ts",
-        "_locales/zh-TW/pixetto-16-strings.json"
+        "_locales/zh-TW/pixetto2-ext-strings.json"
     ],
     "public": true
 }
